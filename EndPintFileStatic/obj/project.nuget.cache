@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tIjbnBAwe4V+MrW0Y8bSk7vwsIijKGtkf6X2SQhiXlxkxARb/HushsUYGYVY9zlFLdaR82IvK9mDg/NzOdcZ2Q==",
+  "success": true,
+  "projectFilePath": "D:\\excore\\OnlineShop\\EndPintFileStatic\\EndPintFileStatic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KHaloo Ali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

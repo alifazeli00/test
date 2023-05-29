@@ -1,0 +1,12 @@
+D:\excore\OnlineShop\Common\bin\Debug\net5.0\Common.deps.json
+D:\excore\OnlineShop\Common\bin\Debug\net5.0\Common.dll
+D:\excore\OnlineShop\Common\bin\Debug\net5.0\ref\Common.dll
+D:\excore\OnlineShop\Common\bin\Debug\net5.0\Common.pdb
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.dll
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\ref\Common.dll
+D:\excore\OnlineShop\Common\obj\Debug\net5.0\Common.pdb
