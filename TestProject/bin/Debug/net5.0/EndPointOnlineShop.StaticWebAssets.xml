@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Admin" Path="D:\excore\OnlineShop\Admin\wwwroot\" />
+  <ContentRoot BasePath="_content/EndPintFileStatic" Path="D:\excore\OnlineShop\EndPintFileStatic\wwwroot\" />
+</StaticWebAssets>
